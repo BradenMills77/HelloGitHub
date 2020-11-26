@@ -1,0 +1,5 @@
+Git Branch: the main branch is is called the master branch, you can create new branches with git checkout -b BranchNameHere. Branches are
+a moveable pointer to every commit.
+Git Push: The process of downloading commits that don’t exist on your machine from a remote repository
+Git Pull: The process of adding your local changes to the remote repository
+git clone: a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository
